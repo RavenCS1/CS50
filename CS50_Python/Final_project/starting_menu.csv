@@ -1,0 +1,10 @@
+Id,Operator,Action
+1,view,View your playlist
+2,find,Find a particular song
+3,add,Add a song to your playlist
+4,change,Change the name of the file on which you want to operate
+5,create,Creates a file with a given name if it does not exist
+6,remove,Remove a song from your playlist
+7,clear, Remove all the songs from your playlist
+8,delete, Delete the whole file
+9,exit,Exit Program

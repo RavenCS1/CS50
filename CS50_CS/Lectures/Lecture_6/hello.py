@@ -1,0 +1,6 @@
+def main():
+    answer=input("What's your name? ")
+    print(f"Hello, {answer}")
+
+if __name__=="__main__":
+    main()

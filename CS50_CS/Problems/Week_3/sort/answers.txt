@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Takes 2,641s to sort sorted50000.txt (the fastest program).
+
+sort2 uses: Merge sort
+
+How do you know?: Takes 3,459s to sort sorted50000.txt and 3,518s to sort reversed50000.txt (similar time).
+
+sort3 uses: Selection sort
+
+How do you know?: Takes 5,405s to sort sorted50000.txt (the slowest program).
