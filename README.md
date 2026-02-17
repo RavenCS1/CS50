@@ -3,7 +3,7 @@
 
 Repository with my projects from **CS50 Introduction to Computer Science** and **CS50 Introduction to Programming with Python** (2023).
 
-## 📚 CS50x - Introduction to Computer Science
+## CS50x - Introduction to Computer Science
 | Week | Pset | Status | Language |
 |------|------|--------|----------|
 | 0 | Scratch | ✅ | Scratch |
@@ -14,22 +14,22 @@ Repository with my projects from **CS50 Introduction to Computer Science** and *
 | 5 | Speller | ✅ | C |
 | 6-10 | SQL, JS, Flask | ⏳ | |
 
-## 🐍 CS50 Python - Introduction to Programming with Python
+## CS50 Python - Introduction to Programming with Python
 | Week | Status | Projects |
 |------|--------|----------|
 | 1-9 | ✅ | Functions, OOP, Libraries |
-| **Final** | ✅ | **YouTube Playlist Manager** 👇 |
+| **Final** | ✅ | **YouTube Playlist Manager** |
 
-## 🎯 Final Project (CS50 Python)
+## Final Project (CS50 Python)
 **YouTube Playlist Manager** - Console app for YouTube playlist backup in CSV files
 
-## 🎓 What I Learned
+## What I Learned
 **CS50x:** Pointers, algorithms, memory management, data structures (trie, hash), SQL  
 **Python:** Functions, OOP, APIs (pytube), regex, CSV, unit testing
 
-## 🔗 Links
+## Links
 - [CS50x 2023](https://cs50.harvard.edu/x/2023/)
 - [CS50 Python](https://cs50.harvard.edu/python/)
 - [CS50 IDE](https://ide.cs50.io/)
 
-**IT WAS CS50!** 🎓✨
+**IT WAS CS50!**
